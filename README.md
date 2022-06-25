@@ -1,5 +1,5 @@
 - Hi, I’m Abhishek Pandey
-- Graduated from IIT Kanpur
+- Graduated from IIT Kanpur, **AIR 853** in IIT-JEE 2012
 - I have completed Data Analyst with Python Track (17 courses) on Datacamp
 - I’m interested in Natural Language Processing
 - I’m currently learning Deep Learning
