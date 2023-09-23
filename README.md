@@ -3,7 +3,7 @@
 ML Software Engineer
 
 ## 🚀 About Me
-Achieved an All India Rank of **853** in **IIT JEE** 2012, outperforming one million candidates. Currently, I bring over a year of experience as a Machine Learning Software Engineer, leveraging a strong mathematical foundation. Proficient in predictive modeling, data analysis, data visualization, clustering, classification, regression and API development.
+Achieved an All India Rank of **853** in **IIT JEE** 2012, outperforming one million candidates. Currently, I bring over a year of experience as a Machine Learning Software Engineer, leveraging a strong mathematical foundation. Proficient in **predictive modeling**, **data analysis, data visualization, clustering, classification, regression** and **API development**.
 
 
 ## 🔗 Contact
