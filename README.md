@@ -64,10 +64,15 @@ Achieved an All India Rank of **853** in **IIT JEE** 2012, outperforming one mil
 ## 🛠 Skills
 
 **Programming Languages:** Python, C, C++, SQL
+
 **Databases & Tools:** Elastic Search, Docker
+
 **Python Libraries:** NLTK, Scikit-learn, Pandas, NumPy, SciPy, SpaCy, TextBlob, Matplotlib, Seaborn
+
 **Machine Learning Models:** Linear Regression, Logistic Regression, ARIMAX, Naive Bayes, SVM, Decision Trees, Random Forest, KNN, K-means, prophet
+
 **Statistical Tools:** Descriptive Statistics, Predictive Modeling, Bayesian Statistics, Probability Distributions, Dimensionality Reduction, Sampling Methods, Time Series Modeling, A/B Testing
+
 **Key skills**: Data Visualization, Predictive Analysis, Statistical Modelling, Clustering and Classification, Data Analysis, Model Development
 
 
