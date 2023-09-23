@@ -64,9 +64,9 @@ Achieved an All India Rank of **853** in **IIT JEE** 2012, outperforming one mil
 
 ## 🛠 Skills
 
-**Programming Languages:** Python, C, C++, SQL\
+**Programming Languages:** Python, C, C++, SQL
 
-**Databases & Tools:** Elastic Search, Docker\
+**Databases & Tools:** Elastic Search, Docker
 
 **Python Libraries:** NLTK, Scikit-learn, Pandas, NumPy, SciPy, SpaCy, TextBlob, Matplotlib, Seaborn
 
