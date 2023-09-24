@@ -3,7 +3,7 @@
 ML Software Engineer
 
 ## 🚀 About Me
-Achieved an All India Rank of **853** in **IIT JEE** 2012, outperforming one million candidates. Currently, I bring over a year of experience as a Machine Learning Software Engineer, leveraging a strong mathematical foundation. Proficient in **predictive modeling**, **data analysis, data visualization, clustering, classification, regression** and **API development**.
+Achieved an All India Rank of **853** in **IIT JEE** 2012, outperforming one million candidates. I am currently working as an ML Engineer at Crimecheck. Proficient in **predictive modeling**, **data analysis, data visualization, clustering, classification, regression** and **API development**. I enjoy playing **Cricket** and **Sudoku**.
 
 
 ## 🔗 Contact
@@ -73,11 +73,28 @@ Achieved an All India Rank of **853** in **IIT JEE** 2012, outperforming one mil
 
 **Python Libraries:** NLTK, Scikit-learn, Pandas, NumPy, SciPy, SpaCy, TextBlob, Matplotlib, Seaborn
 
-**Machine Learning Models:** Linear Regression, Logistic Regression, ARIMAX, Naive Bayes, SVM, Decision Trees, Random Forest, KNN, K-means, prophet
+**Machine Learning Models:** Linear Regression, Logistic Regression, ARIMAX, Naive Bayes, SVM, Decision Trees, Random Forest, KNN, K-means, prophet, Text Vectorization, Stemming, Tokenization, TF-IDF, ngrams
 
 **Statistical Tools:** Descriptive Statistics, Predictive Modeling, Bayesian Statistics, Probability Distributions, Dimensionality Reduction, Sampling Methods, Time Series Modeling, A/B Testing
 
-**Key skills**: Data Visualization, Predictive Analysis, Statistical Modelling, Clustering and Classification, Data Analysis, Model Development
+**Key skills**: Data Visualization, Predictive Analysis, Statistical Modelling, Clustering and Classification, Data Analysis, Data Augmentation, Model Development, Data Preprocessing, Data Manipulation
+
+
+## Certifications
+[Link](https://github.com/abhishp021/Certificates/tree/main/Datacamp)
+- Data Analyst with Python
+- Elastic Search
+- Intro to Docker
+- Intro to Machine Learning
+- Intro to Natural Language Processing
+- SQL
+- Data Manipulation with Pandas
+- Data Cleaning in Python
+- Exploratory Data Analysis in Python
+- Data Visualization 
+- Relational Databases
+- Statistical Thinking in Python
+
 
 
 
