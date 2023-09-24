@@ -11,10 +11,11 @@ Achieved an All India Rank of **853** in **IIT JEE** 2012, outperforming one mil
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/abhishp021)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekpandey021@gmail.com)
 
-
+<!---
 - How to reach me ... @abhishekpandey021@gmail.com
 - Datacamp profile link --- https://www.datacamp.com/profile/abhishekpandey021
 - Kaggle profile link --- https://www.kaggle.com/abhishp021
+--->
 
 ## Work Experience
 
