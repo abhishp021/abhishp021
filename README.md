@@ -36,27 +36,33 @@ Achieved an All India Rank of **853** in **IIT JEE** 2012, outperforming one mil
 
 ## Projects
 
-### Housing Price Prediction
+### [Housing Price Prediction](https://www.kaggle.com/abhishp021/competitions?tab=active)
 #### Kaggle
 
-- Achieved an accuracy rate of 89.5% on a dataset containing 303 samples.
-- Conducted comprehensive feature engineering and fine-tuned hyperparameters while evaluating various classification algorithms.
-- Developed an API using the Flask framework and seamlessly integrated it with the application.
+- Currently ranked in the **top 1%** in the competition.
+- Executed **data cleaning and data manipulation** techniques, utilizing a range of regression algorithms, including Decision Trees, Random Forest, SVM etc.
+- Successfully reduced the Mean Absolute Error (**M.A.E.**) by 40%.
 
-### Heart Disease Diagnosis
+### [Heart Disease Diagnosis](https://github.com/abhishp021/Heart-Disease-Prediction) 
 #### Kaggle
 
-- Achieved an accuracy rate of 89.5% on a dataset containing 303 samples.
-- Conducted feature engineering and hyperparameter tuning while evaluating various classification algorithms.
-- Developed an API using the Flask framework and seamlessly integrated it with the application.
+- Achieved an accuracy rate of **89.5%** on a dataset containing 303 samples.
+- Conducted **feature engineering** and **hyperparameter tuning** while evaluating various classification algorithms.
+- Developed an **API** using the **Flask** framework and seamlessly integrated it with the application.
 
-### Sentiment Analysis
+### [Sentiment Analysis](https://github.com/abhishp021/Sentiment-Analysis)
 #### Kaggle
 
-- Objective: Predict the tone of text messages.
-- Conducted initial data exploration, performed text cleaning, tokenization, and stemming.
+- Objective: Predict the **tone** of text messages.
+- Conducted initial data exploration, performed **text cleaning**, **tokenization**, and **stemming**.
 - Employed Bag of Words, TF-IDF, and n-grams models, applying algorithms such as Naive Bayes, Logistic Regression, and Random Forest Classifier.
-- Utilized specificity as a criterion to enhance the identification of negative text and improve grievance redressal.
+- Utilized **specificity** as a criterion to enhance the identification of negative text and improve grievance redressal.
+
+### Other Projects 
+- [Car Price Prediction](https://github.com/abhishp021/Car-Prediction)
+- [Binary Classification](https://github.com/abhishp021/Arya.ai-assignment)
+
+
 ## Education
 ### IIT Kanpur
 #### BTech + Mtech Dual Degree
@@ -64,6 +70,8 @@ Achieved an All India Rank of **853** in **IIT JEE** 2012, outperforming one mil
 
 - **Thesis**: Design and Analysis of Pressure Impulse Generator
 - **Coursework**: Introduction to Computing, Probability & Statistics, Linear Algebra, Numerical Computations
+
+
 
 ## 🛠 Skills
 
