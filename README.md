@@ -81,7 +81,7 @@ Achieved an All India Rank of **853** in **IIT JEE** 2012, outperforming one mil
 
 
 ## Certifications
-[Link](https://github.com/abhishp021/Certificates/tree/main/Datacamp)
+[Links 🔗](https://github.com/abhishp021/Certificates/tree/main/Datacamp)
 - Data Analyst with Python
 - Elastic Search
 - Intro to Docker
