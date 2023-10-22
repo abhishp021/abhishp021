@@ -3,7 +3,7 @@
 ML Software Engineer
 
 ## 🚀 About Me
-Achieved an All India Rank of **853** in **IIT JEE** 2012, outperforming one million candidates. I am currently working as an ML Engineer at CrimeCheck. Proficient in **predictive modeling**, **data analysis, data visualization, clustering, classification, regression** and **API development**. I enjoy playing **Cricket** and **Sudoku**.
+Achieved an All India Rank of **853** in **IIT JEE** 2012, outperforming 1 million candidates. I am currently working as an ML Engineer at CrimeCheck. Proficient in **predictive modeling**, **data analysis, data visualization, clustering, classification, regression** and **API development**. I enjoy playing **Cricket** and **Sudoku**.
 
 
 ## 🔗 Contact
