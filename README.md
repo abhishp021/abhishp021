@@ -22,9 +22,37 @@ Achieved an All India Rank of **853** in **IIT JEE** 2012, outperforming 1 milli
 ### CrimeCheck 
 #### ML Engineer (July 2022-present)
 
-- Developed and deployed an **API** for Act and Section Standardization, converting more than **9 lakh** acts in court records into **2,213** standard acts. Utilized Data Augmentation since more than 1,400 standard acts had less than 3 mentions in the training data. Achieved an impressive accuracy of **96.2%** (**99.2%** for single act prediction).
-- Engineered a robust system to detect **revenue anomalies** among the top 30 clients by employing advanced **time series models** and **feature engineering**. Created **alert notifications** for clients that might discontinue our services. Also, designed similar alert notifications for work done by CrimeCheck employees.
-- Completed **17 data analysis** and **visualization** projects on extensive datasets, delivering valuable insights in the form of extensive **reports**, geographical **plots**, **blogs**, and **infographics** for data-driven decision making.
+##### Legal Bot
+The Legal Bot project began as an exploration into developing a sophisticated chatbot capable of addressing legal queries effectively. Here's an overview of the project's journey:
+- Initial Training: We started by training a GPT model from scratch to understand its behavior and performance, focusing initially on Next Word Prediction (NWP). While it showed promise, its limitations for chatbot applications became evident.
+- Data Training and Challenges: Transitioning to a specific Q&A dataset improved the model's performance, but challenges persisted, particularly with out-of-bounds (OOB) data. We experimented with various models and approaches to address these issues.
+- Falcon Model Integration: Discovering the Falcon model, well-trained on both NWP and chatbot tasks, sparked hope. However, training a larger model presented computational challenges, leading us to adopt the LORA fine-tuning approach.
+- Chunking and Model Refinement: Despite initial successes, challenges with large documents and context extraction persisted. We devised a chunking strategy and employed RoBERTa for relevance scoring to enhance accuracy.
+- Fine-Tuning and Model Selection: Exploring supervised fine-tuning methods and leveraging publicly available datasets proved fruitful. We experimented with multiple models and ultimately found that those fine-tuned for coding tasks performed best for our purposes.
+
+##### Court Record/FIR Case Search
+- Developed and deployed a sophisticated search system for court records and FIR cases, leveraging machine learning-based models for efficient comparison of unstructured Indian names and addresses.
+- Integrated custom-built models into the search system, facilitating accurate identification of individuals with relevant case histories.
+- Utilized Elastic Search as the underlying platform, managing a vast database of over 25 crore court records for seamless retrieval and analysis.
+- Significantly reduced the False Positive Rate from 50% to less than 2%, enhancing the system's accuracy and reliability in identifying relevant case histories.
+- Implemented custom phonetic and spellcheck features in the Name model, improving accuracy and robustness in name comparison tasks.
+- Enhanced precision of the Address model from 72% to 91% by implementing a weighted tri-gram approach for vectorization and leveraging the LightGBM model for superior performance.
+
+##### Act and Section Standardization
+- Developed and deployed an API for standardizing acts and sections extracted from court records, converting over 9 lakh unstructured acts into 2,213 standardized acts.
+- Successfully standardized a large volume of unstructured acts and sections extracted from court records, enhancing the accessibility and usability of legal information.
+- Leveraged data augmentation techniques to enrich the training data for standard acts with limited mentions, improving model performance and accuracy in act standardization.
+- Attained a remarkable accuracy rate of 96.2% in accurately mapping unstructured acts to standardized ones, demonstrating the effectiveness of the standardization API in processing diverse legal documents.
+
+##### Data Analysis Tasks
+- Successfully conducted 17 data analysis projects, demonstrating proficiency in handling diverse datasets and analytical techniques to extract meaningful insights.
+- Produced a wide range of deliverables including detailed reports, visually appealing geographical plots, informative blogs, and engaging infographics to communicate findings effectively to stakeholders.
+- Utilized SQL and Elasticsearch queries to access and manipulate data, streamlining the data analysis process and enabling efficient exploration of large datasets.
+
+##### Churn Prediction
+- Engineered a robust system to detect revenue anomalies among the top 30 clients, utilizing advanced time series models and feature engineering techniques.
+- Developed alert notifications to proactively identify clients at risk of discontinuing services, enabling timely intervention and retention efforts.
+- Extended the alert notification system to monitor the performance of CrimeCheck employees, ensuring consistent service quality and adherence to service level agreements (SLAs).
 
 ### UPSC Civil Services Preparation
 #### 2017-2022
