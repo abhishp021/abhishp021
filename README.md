@@ -3,7 +3,7 @@
 ML Software Engineer
 
 ## 🚀 About Me
-Achieved an All India Rank of **853** in **IIT JEE** 2012, outperforming 1 million candidates. I am currently working as an ML Engineer at CrimeCheck. Experienced professional skilled in leveraging machine learning and data analysis techniques to tackle complex challenges. With a proven track record in developing innovative solutions, I have created a legal chatbot by fine tuning the open-source GPT model, OpenHermes-2.5-Mistral-7B. Proficient in **predictive modeling**, **data analysis, data visualization, clustering, classification, regression** and **API development**. I enjoy playing **Cricket** and **Sudoku**.
+Achieved an All India Rank of **853** in **IIT JEE** 2012, outperforming 1 million candidates. I am currently working as an ML Engineer at CrimeCheck. Experienced professional skilled in leveraging machine learning and data analysis techniques to tackle complex challenges. With a proven track record in developing innovative solutions, I have created a **legal chatbot** by **fine tuning** the open-source GPT model, OpenHermes-2.5-Mistral-7B. Proficient in **predictive modeling**, **data analysis, data visualization, clustering, classification, regression** and **API development**. I enjoy playing **Cricket** and **Sudoku**.
 
 ## 🔗 Contact
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishp021/)
