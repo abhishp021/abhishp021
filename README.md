@@ -102,14 +102,13 @@ The Legal Bot project began as an exploration into developing a sophisticated ch
 
 
 ## 🛠 Skills
+**Machine Learning:** Classification, Regression, Clustering, Recommendation Systems, Natural Language Processing(NLP), Computer Vision, Large Language Models(LLMs), Deep Learning, Ensemble Methods (Random Forest, LightGBM, XGBoost), Data Analysis
 
 **Programming Languages:** Python, C, C++, SQL
 
 **Developer Tools:** Elastic Search, Docker, Git, Bash, Postman
 
 **Python Libraries:** NLTK, Scikit-learn, Pandas, NumPy, SciPy, SpaCy, TextBlob, Matplotlib, Seaborn
-
-**Machine Learning Models:** Linear Regression, Logistic Regression, ARIMAX, Naive Bayes, SVM, Decision Trees, Random Forest, KNN, K-means, prophet, Text Vectorization, Stemming, Tokenization, TF-IDF, ngrams
 
 **Statistical Tools:** Descriptive Statistics, Predictive Modeling, Bayesian Statistics, Probability Distributions, Dimensionality Reduction, Sampling Methods, Time Series Modeling, A/B Testing
 
